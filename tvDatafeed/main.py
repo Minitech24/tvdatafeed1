@@ -25,6 +25,7 @@ class Interval(enum.Enum):
     in_3_hour = "3H"
     in_4_hour = "4H"
     in_daily = "1D"
+    in_3daily = "3D"
     in_weekly = "1W"
     in_monthly = "1M"
 
